@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Interests] from [Your Location]. Welcome to my GitHub profile!
+I'm John Raison V. Salvador, a passionate Web Developer from Philippines. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Your Current Learning Focus]
