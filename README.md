@@ -22,6 +22,6 @@ Refine | Context API | Redux Toolkit | Git | Github | Git control | Co-pilot | C
 
 ### Let's connect:
 
-[Add your social media or other contact links, e.g., LinkedIn, Twitter, etc.]
+Facebook: https://www.facebook.com/xpngtaq/ | Gmail: raisonsalvador0@gmail.com |
 
 Feel free to reach out and connect with me! 😊
