@@ -19,7 +19,7 @@ I'm John Raison V. Salvador, a passionate Web Developer from Philippines. Welcom
 
 ### GitHub Stats:
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pngtaq&show_icons=true&theme=radical)](https://github.com/pngtaq)
 
 ### Let's connect:
 
