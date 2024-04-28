@@ -10,7 +10,7 @@ I'm John Raison V. Salvador, a passionate Web Developer from Philippines. Welcom
 
 ### Languages and Tools:
 
-HTML | CSS | Javascript | Typescript | Tailwind | Bootstrap | React | Next JS | Supabase | Firebase | 
+HTML | CSS | Javascript | Typescript | Tailwind | Bootstrap | React | Next JS | Supabase | Firebase | <br/>
 Refine | Context API | Redux Toolkit | Git | Github | Git control | Co-pilot | ChatGPT | 
 
 
