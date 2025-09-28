@@ -79,8 +79,8 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 </p>
 
 ## 🔥 &nbsp; My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkenger&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pngtaq&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkenger&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pngtaq&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkenger&show_icons=true&locale=en" alt="jkenger" /></p>
