@@ -18,36 +18,40 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 - 🏫 What I'm currently Learning:
 
    - **Prisma**
-   - **NextJS**
+   - **GSAP**
    - **NestJS**
    - **ReactNative**
 
 - ✅ Projects Done:
 
-   - **TypeNotes: Note Management System**
-     <br> <i> MongoDB, React, Typescript, Nodejs, Express </i>
+   - **Workout AI: Workout Generator**
+     <br> <i> MongoDB, NextJS, Typescript, CohereAI, AuthJS </i>
      
-      - Demo: [Vercel](https://tsnotes.onrender.com/)
-      - Repo: [Github](https://github.com/jkenger/typenotes)
+      - Demo: [Vercel](https://workout-ai-piqg.vercel.app/)
+      - Repo: [Github](https://github.com/Pngtaq/workout_ai)
         
-   - **[BFAR-MS: RFID Based Attendance and Payroll Management System](https://bfarms.onrender.com/)**
-     <br> <i> Express, Nodejs, HTML & CSS, EJS, Bootstrap </i>
-   - **Jobify: Personal Job Tracker**
-     <br> <i> MongoDB, React, Typescript, Nodejs, Express </i>
+   - **ECCD Web: Government Online Role-based Web App**
+     <br> <i> NextJS, TypeScript, Shadcn, Tailwind, Nodemailer, MongoDB, ZOD, OpenAI </i>
+
+        - Demo: [Vercel](https://eccd.vercel.app)
+          
+   - **Devcuments: Documentation With Markdown Syntax**
+     <br> <i> Typescript, React, Supabase, Supabase Auth </i>
      
-      - Demo: [Render](https://jobify-rl4k.onrender.com/)
-      - Repo: [Github](https://github.com/jkenger/jobify)
+      - Demo: [Vercel](https://documentation-three-psi.vercel.app/)
+      - Repo: [Github](https://github.com/Pngtaq/documentation)
     
-   - **Pread.me: Readme Editor with ChatGPT Assistance**
-     <br> <i> React, Typescript, DND </i>
+   - **Mojito: Animated Website**
+     <br> <i> React, GSAP </i>
     
-      - Demo: [Vercel](https://pread-me.vercel.app/)
-      - Repo: [Github](https://github.com/jkenger/pread-me)
+      - Demo: [Vercel](https://vercel.com/pngtaqs-projects/gsap)
+      - Repo: [Github](https://github.com/Pngtaq/gsap)
 
 - 📝 What project I'm currently doing
 
-  - BFARMS: RFID Based Attendance and Payroll Management System
-       - WIP Demo: [Render](https://bfarmsv2.onrender.com/admin/employees)
+  - **Chatify: Realtime Chat Web App**
+    <br> <i> ReactJS, Express, Node, Tailwind, SocketIO </i>
+       - Demo: [Sevalla](https://realtime-chat-app-75n4k.sevalla.app/)
 
 - 📫 How to reach me: &nbsp;
 
