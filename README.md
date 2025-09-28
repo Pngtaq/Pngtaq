@@ -1,7 +1,7 @@
 
 
 
-<h1>Hey there, I'm Raison Salvador - Adaptive Full Stack Developer🌊</h1>
+<h1>Hey there, I'm Raison Salvador - Adaptive Full Stack Developer</h1>
 
 I specialize in back-end technologies like Node/Express JS and MongoDB. Currently exploring into the space of front-end development with ReactJS with Typescript. I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications.
 
