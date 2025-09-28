@@ -14,6 +14,9 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
    - **ExpressJS**
    - **MongoDB**
    - **NextJS**
+   - **CursorAI**
+   - **Copilot**
+   - **OpenAI**
    
 - 🏫 What I'm currently Learning:
 
