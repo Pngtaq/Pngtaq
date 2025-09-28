@@ -51,10 +51,10 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 - 📫 How to reach me: &nbsp;
 
-   - johnkgervacio@gmail.com
-   - [LinkedIn](https://www.linkedin.com/in/gervacioken/")
-   - [Facebook](https://www.facebook.com/kenwuuuu)
-   - [Twitter](https://twitter.com/gervacio_ken)
+   - [Gmail] ronchan.dev@gmail.com
+   - [LinkedIn](https://www.linkedin.com/in/raisonsalvador/)
+   - [Facebook](https://www.facebook.com/profile.php?id=61578506374853)
+
 
 ## 🛠 &nbsp;Languages and Tools
 
@@ -83,4 +83,4 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pngtaq&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkenger&show_icons=true&locale=en" alt="jkenger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pngtaq&show_icons=true&locale=en" alt="pngtaq" /></p>
