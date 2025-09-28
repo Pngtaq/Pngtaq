@@ -58,7 +58,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 - 📫 How to reach me: &nbsp;
 
-   - [Gmail] ronchan.dev@gmail.com
+   - [Gmail](ronchan.dev@gmail.com)
    - [LinkedIn](https://www.linkedin.com/in/raisonsalvador/)
    - [Facebook](https://www.facebook.com/profile.php?id=61578506374853)
 
