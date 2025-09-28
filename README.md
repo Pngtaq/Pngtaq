@@ -47,7 +47,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
    - **Mojito: Animated Website**
      <br> <i> React, GSAP </i>
     
-      - Demo: [Vercel](https://vercel.com/pngtaqs-projects/gsap)
+      - Demo: [Vercel](https://gsap-nine-theta.vercel.app/)
       - Repo: [Github](https://github.com/Pngtaq/gsap)
 
 - 📝 What project I'm currently doing
