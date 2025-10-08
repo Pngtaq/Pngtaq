@@ -22,7 +22,6 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
    - **Prisma**
    - **GSAP**
-   - **NestJS**
    - **ReactNative**
 
 - ✅ Projects Done:
