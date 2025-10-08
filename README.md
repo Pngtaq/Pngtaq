@@ -1,65 +1,78 @@
 
 
 
-<h1>Hey there, I'm Raison Salvador - Adaptive Full Stack Developer</h1>
+<h1>👋 Hey there, I'm Raison Salvador — AI-Powered Full Stack Developer</h1>
 
-I specialize in back-end technologies like Node/Express JS and MongoDB. Currently exploring into the space of front-end development with ReactJS with Typescript. I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications.
+I'm a passionate full stack developer specializing in **Node.js / Express** and **MongoDB**, while continuously enhancing my front-end expertise with **ReactJS** and **TypeScript**.  
+I’m dedicated to building seamless, scalable, and modern applications — combining creativity, automation, and the power of AI-driven tools.
 
-- 👨‍✈️ Exploring Front-end and Back-end Technologies.
-- ♟ Experienced and Currently working with:
-   
-   - **React**
-   - **Typescript**
-   - **Node.js**
-   - **ExpressJS**
-   - **MongoDB**
-   - **NextJS**
-   - **CursorAI**
-   - **Copilot**
-   - **OpenAI**
-   
-- 🏫 What I'm currently Learning:
+---
 
-   - **Prisma**
-   - **GSAP**
-   - **ReactNative**
+### 🚀 What I Do
+- 👨‍💻 Building and exploring both **front-end** and **back-end** technologies  
+- ⚙️ Automating workflows and integrating AI into full-stack projects  
+- 💡 Constantly learning and evolving with new frameworks and developer tools  
 
-- ✅ Projects Done:
+---
 
-   - **Workout AI: Workout Generator**
-     <br> <i> MongoDB, NextJS, Typescript, CohereAI, AuthJS </i>
-     
-      - Demo: [Vercel](https://workout-ai-piqg.vercel.app/)
-      - Repo: [Github](https://github.com/Pngtaq/workout_ai)
-        
-   - **ECCD Web: Government Online Role-based Web App**
-     <br> <i> NextJS, TypeScript, Shadcn, Tailwind, Nodemailer, MongoDB, ZOD, OpenAI </i>
+### 🧠 Technologies & Tools I Work With
+#### 💻 Frameworks & Libraries
+- **React** | **Next.js** | **TypeScript** | **Node.js** | **Express.js**
+- **MongoDB** | **TailwindCSS** | **Shadcn** | **Zod**
 
-        - Demo: [Vercel](https://eccd.vercel.app)
-          
-   - **Devcuments: Documentation With Markdown Syntax**
-     <br> <i> Typescript, React, Supabase, Supabase Auth </i>
-     
-      - Demo: [Vercel](https://documentation-three-psi.vercel.app/)
-      - Repo: [Github](https://github.com/Pngtaq/documentation)
-    
-   - **Mojito: Animated Website**
-     <br> <i> React, GSAP </i>
-    
-      - Demo: [Vercel](https://gsap-nine-theta.vercel.app/)
-      - Repo: [Github](https://github.com/Pngtaq/gsap)
+#### 🤖 AI & Automation
+- **n8n** – automation workflows & integrations  
+- **Cursor AI**, **Copilot**, **Windsurf** – AI-assisted coding and debugging  
+- **OpenAI** | **CohereAI** – building intelligent, context-aware applications  
 
-- 📝 What project I'm currently doing
+---
 
-  - **Chatify: Realtime Chat Web App**
-    <br> <i> ReactJS, Express, Node, Tailwind, SocketIO </i>
-       - Demo: [Sevalla](https://realtime-chat-app-75n4k.sevalla.app/)
+### 🏫 Currently Learning
+- **Prisma** – ORM for databases  
+- **GSAP** – animations for smooth user experiences  
+- **React Native** – mobile app development  
 
-- 📫 How to reach me: &nbsp;
+---
 
-   - [Gmail](ronchan.dev@gmail.com)
-   - [LinkedIn](https://www.linkedin.com/in/raisonsalvador/)
-   - [Facebook](https://www.facebook.com/profile.php?id=61578506374853)
+### ✅ Projects I've Built
+
+#### 🏋️ Workout AI: Workout Generator  
+*MongoDB, NextJS, TypeScript, CohereAI, AuthJS*  
+- Demo: [Vercel](https://workout-ai-piqg.vercel.app/)  
+- Repo: [GitHub](https://github.com/Pngtaq/workout_ai)
+
+#### 🏛 ECCD Web: Government Role-based Web App  
+*NextJS, TypeScript, Shadcn, Tailwind, Nodemailer, MongoDB, Zod, OpenAI*  
+- Demo: [Vercel](https://eccd.vercel.app)
+
+#### 📚 Devcuments: Documentation with Markdown Syntax  
+*TypeScript, React, Supabase, Supabase Auth*  
+- Demo: [Vercel](https://documentation-three-psi.vercel.app/)  
+- Repo: [GitHub](https://github.com/Pngtaq/documentation)
+
+#### 🍸 Mojito: Animated Website  
+*React, GSAP*  
+- Demo: [Vercel](https://gsap-nine-theta.vercel.app/)  
+- Repo: [GitHub](https://github.com/Pngtaq/gsap)
+
+---
+
+### 🧩 Currently Building
+#### 💬 Chatify: Realtime Chat Web App  
+*ReactJS, Express, Node, Tailwind, Socket.IO*  
+- Demo: [Sevalla](https://realtime-chat-app-75n4k.sevalla.app/)
+
+---
+
+### 📫 Let's Connect
+- 📧 [Gmail](mailto:ronchan.dev@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raisonsalvador/)  
+- 🌐 [Facebook](https://www.facebook.com/profile.php?id=61578506374853)
+
+---
+
+> ⚡ *“Empowered by AI, driven by curiosity — building the future one line of code at a time.”*
+
 
 
 ## 🛠 &nbsp;Languages and Tools
