@@ -100,7 +100,3 @@ I’m dedicated to building seamless, scalable, and modern applications — comb
 ## 🔥 &nbsp; My Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pngtaq&theme=transparent)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pngtaq&theme=radical&hide_border=true)](https://github.com/pngtaq)
-
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pngtaq&show_icons=true&locale=en" alt="pngtaq" /></p>
