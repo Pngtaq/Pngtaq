@@ -98,8 +98,7 @@ I’m dedicated to building seamless, scalable, and modern applications — comb
 </p>
 
 ## 🔥 &nbsp; My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pngtaq&layout=compact&theme=vision-friendly-light&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pngtaq&theme=transparent)](https://git.io/streak-stats)
+
 
 
